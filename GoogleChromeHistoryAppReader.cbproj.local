@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.397,=C:\Users\Mike\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.737,C:\Users\Mike\Documents\Embarcadero\Studio\Projects\MainForm.cpp=C:\Users\Mike\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.737,C:\Users\Mike\Documents\Embarcadero\Studio\Projects\MainForm.h=C:\Users\Mike\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.349,C:\Users\Mike\Documents\Embarcadero\Studio\Projects\GoogleChromeHistoryAppReader.cbproj=C:\Users\Mike\Documents\Embarcadero\Studio\Projects\SQLite.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.121,C:\Users\Mike\Documents\Embarcadero\Studio\Projects\SQLitePCH1.h=C:\Users\Mike\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.737,C:\Users\Mike\Documents\Embarcadero\Studio\Projects\MainForm.dfm=C:\Users\Mike\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.704,=C:\Users\Mike\Documents\Embarcadero\Studio\Projects\sqlite3.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.786,=C:\Users\Mike\Documents\Embarcadero\Studio\Projects\sqlite3ext.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.134,C:\Users\Mike\Documents\Embarcadero\Studio\Projects\SQLite.cbproj=C:\Users\Mike\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.812,C:\Users\Mike\Documents\Embarcadero\Studio\Projects\SQLite.cbproj=C:\Users\Mike\Documents\Embarcadero\Studio\Projects\SQLite.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.755,=C:\Users\Mike\Documents\Embarcadero\Studio\Projects\sqlite3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.319,C:\Users\Mike\Documents\Embarcadero\Studio\Projects\GoogleChromeHistoryAppReaderPCH1.h=C:\Users\Mike\Documents\Embarcadero\Studio\Projects\SQLitePCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.296,=C:\Users\Mike\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
